@@ -28,8 +28,8 @@
 - **🔋 Yenilenebilir Enerji Üzerine Makine Öğrenmesi Projesi (Bitirme Projesi)**  
   Python ile LSTM modelleme kullanarak yenilenebilir enerji üretim tahmini gerçekleştirdim. Veri temizleme, model eğitimi ve performans değerlendirme süreçlerini yürüttüm.  
 
-- **💻 Öğrenci Otomasyon Sistemi** (Django + MySQL + React)**
-  Modern web teknolojileri kullanarak öğrenci kayıt, yönetim ve analiz sistemi geliştiriyorum.  
+- **💻 Öğrenci Otomasyon Sistemi** (Django + MySQL + React) 
+  Modern web teknolojileri kullanarak öğrenci kayıt, yönetim ve analiz sistemi geliştirdim.
 
 ---
 
